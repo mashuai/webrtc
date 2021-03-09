@@ -35,6 +35,9 @@ const (
 	// MimeTypePCMA PCMA MIME type
 	// Note: Matching should be case insensitive.
 	MimeTypePCMA = "audio/PCMA"
+	// MimeTypeAV1X AV1 MIME type
+	// Note: Matching should be case insensitive.
+	MimeTypeAV1X = "audio/AV1X"
 )
 
 type mediaEngineHeaderExtension struct {
